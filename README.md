@@ -1,2 +1,3 @@
 # A-Deep-LSTM-Network-for-Apple-Stock-s-Price-Forecasting
 LSMT model to try to predict Apple’s stock price for a specific year using previous year’s data from NASDQ’s website
+Stock price instabilities have a significant impact on many financial activities of the world. The development of a reliable prediction model could offer insights in stock price fluctuations, behavior and dynamics and ultimately could provide the opportunity of gaining significant profits. This paper explores the application of the LSTM model. This model exploits the ability of convolutional layers for extracting useful knowledge and learning the internal representation of time-series data as well as the effectiveness of (LSTM) layers for identifying short-term and long-term dependencies.
